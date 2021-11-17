@@ -5,4 +5,4 @@ The users can send messages, videos and images between other users and form grou
  
 A link to the live site: https://wonderful-kepler-82522f.netlify.app/
 
-Log in as "username": John, " password": 232323
+Log in as "username": john,  " password": 232323
